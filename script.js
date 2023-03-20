@@ -5,12 +5,12 @@ const dislike = document.querySelector('#dislike');
 
 // constants
 const urls = [
-  '/Users/susanamarques/Documents/chatgptwebsite/images/6.jpg',
-  '/Users/susanamarques/Documents/chatgptwebsite/images/1.png',
-  '/Users/susanamarques/Documents/chatgptwebsite/images/2.png',
-  '/Users/susanamarques/Documents/chatgptwebsite/images/3.png',
-  '/Users/susanamarques/Documents/chatgptwebsite/images/4.png',
-  '/Users/susanamarques/Documents/chatgptwebsite/images/5.png',
+  '/images/6.jpg',
+  '/images/1.png',
+  '/images/2.png',
+  '/images/3.png',
+  '/images/4.png',
+  '/images/5.png',
 ];
 
 // variables
