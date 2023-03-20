@@ -13,6 +13,7 @@ const urls = [
   'images/5.png',
 ];
 
+
 // variables
 let cardCount = 0;
 
